@@ -1,0 +1,15 @@
+D:\UNIVALLE\GESTION 1-2023 ISI\PROGRAMACION I (C)\EXAMPLE CODE IN CLASSROOM\2023.05.12 Proyecto_git\Proyecto\bin\Debug\net6.0\Proyecto.exe
+D:\UNIVALLE\GESTION 1-2023 ISI\PROGRAMACION I (C)\EXAMPLE CODE IN CLASSROOM\2023.05.12 Proyecto_git\Proyecto\bin\Debug\net6.0\Proyecto.deps.json
+D:\UNIVALLE\GESTION 1-2023 ISI\PROGRAMACION I (C)\EXAMPLE CODE IN CLASSROOM\2023.05.12 Proyecto_git\Proyecto\bin\Debug\net6.0\Proyecto.runtimeconfig.json
+D:\UNIVALLE\GESTION 1-2023 ISI\PROGRAMACION I (C)\EXAMPLE CODE IN CLASSROOM\2023.05.12 Proyecto_git\Proyecto\bin\Debug\net6.0\Proyecto.dll
+D:\UNIVALLE\GESTION 1-2023 ISI\PROGRAMACION I (C)\EXAMPLE CODE IN CLASSROOM\2023.05.12 Proyecto_git\Proyecto\bin\Debug\net6.0\Proyecto.pdb
+D:\UNIVALLE\GESTION 1-2023 ISI\PROGRAMACION I (C)\EXAMPLE CODE IN CLASSROOM\2023.05.12 Proyecto_git\Proyecto\obj\Debug\net6.0\Proyecto.csproj.AssemblyReference.cache
+D:\UNIVALLE\GESTION 1-2023 ISI\PROGRAMACION I (C)\EXAMPLE CODE IN CLASSROOM\2023.05.12 Proyecto_git\Proyecto\obj\Debug\net6.0\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVALLE\GESTION 1-2023 ISI\PROGRAMACION I (C)\EXAMPLE CODE IN CLASSROOM\2023.05.12 Proyecto_git\Proyecto\obj\Debug\net6.0\Proyecto.AssemblyInfoInputs.cache
+D:\UNIVALLE\GESTION 1-2023 ISI\PROGRAMACION I (C)\EXAMPLE CODE IN CLASSROOM\2023.05.12 Proyecto_git\Proyecto\obj\Debug\net6.0\Proyecto.AssemblyInfo.cs
+D:\UNIVALLE\GESTION 1-2023 ISI\PROGRAMACION I (C)\EXAMPLE CODE IN CLASSROOM\2023.05.12 Proyecto_git\Proyecto\obj\Debug\net6.0\Proyecto.csproj.CoreCompileInputs.cache
+D:\UNIVALLE\GESTION 1-2023 ISI\PROGRAMACION I (C)\EXAMPLE CODE IN CLASSROOM\2023.05.12 Proyecto_git\Proyecto\obj\Debug\net6.0\Proyecto.dll
+D:\UNIVALLE\GESTION 1-2023 ISI\PROGRAMACION I (C)\EXAMPLE CODE IN CLASSROOM\2023.05.12 Proyecto_git\Proyecto\obj\Debug\net6.0\refint\Proyecto.dll
+D:\UNIVALLE\GESTION 1-2023 ISI\PROGRAMACION I (C)\EXAMPLE CODE IN CLASSROOM\2023.05.12 Proyecto_git\Proyecto\obj\Debug\net6.0\Proyecto.pdb
+D:\UNIVALLE\GESTION 1-2023 ISI\PROGRAMACION I (C)\EXAMPLE CODE IN CLASSROOM\2023.05.12 Proyecto_git\Proyecto\obj\Debug\net6.0\Proyecto.genruntimeconfig.cache
+D:\UNIVALLE\GESTION 1-2023 ISI\PROGRAMACION I (C)\EXAMPLE CODE IN CLASSROOM\2023.05.12 Proyecto_git\Proyecto\obj\Debug\net6.0\ref\Proyecto.dll
