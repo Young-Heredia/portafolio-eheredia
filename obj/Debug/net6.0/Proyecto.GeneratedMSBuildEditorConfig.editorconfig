@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Proyecto
+build_property.ProjectDir = D:\UNIVALLE\GESTION 1-2023 ISI\PROGRAMACION I (C)\EXAMPLE CODE IN CLASSROOM\2023.05.12 Proyecto_git\Proyecto\
